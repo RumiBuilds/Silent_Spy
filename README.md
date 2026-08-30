@@ -1,4 +1,4 @@
-Silent SPY 
+## Silent SPY 
 
 Silent SPY is an Android application developed using Java and Android Studio for audio recording and managing recorded files.
 
