@@ -24,11 +24,18 @@ Silent SPY is an Android application developed using Java and Android Studio for
 
 ##  Setup & Installation
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/RumiBuilds/Silent_SPY.git
 
+
+
+- Open the project in Android Studio.
+- Allow Gradle to sync and download the required dependencies.
+- Connect an Android device or start an Android emulator.
+- Build and run the application.
+  
 ##   Permissions
 
 The application may require microphone/audio recording permissions to provide its recording functionality.
@@ -36,7 +43,7 @@ Users should grant permissions only when they understand why they are required.
 
 ##   Developer
 
-Rimsha Tariq
+### Rimsha Tariq
 Computer Science Graduate
 
 ⭐ If you like this project, feel free to give it a star!
