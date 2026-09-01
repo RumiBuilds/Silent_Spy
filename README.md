@@ -29,8 +29,6 @@ Silent SPY is an Android application developed using Java and Android Studio for
    ```bash
    git clone https://github.com/RumiBuilds/Silent_SPY.git
 
-
-
 - Open the project in Android Studio.
 - Allow Gradle to sync and download the required dependencies.
 - Connect an Android device or start an Android emulator.
